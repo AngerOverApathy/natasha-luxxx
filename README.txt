@@ -1,6 +1,6 @@
 This repository showcases an adaptive and functional website that seamlessly adjusts its layout and functionality based on the user's device and screen size. It is designed to provide an optimal browsing experience across various devices, including desktop computers, tablets, and mobile phones.
 
-**Features**
+##Features##
 Responsive Design: The website utilizes responsive web design techniques to ensure that content is displayed properly on different screen sizes. It gracefully adapts to provide an optimized user experience regardless of the device being used.
 
 Fluid Layout: The website's layout is built using fluid grids and flexible elements. This enables the content to expand or contract proportionally based on the available screen space, maintaining a consistent and visually pleasing appearance.
